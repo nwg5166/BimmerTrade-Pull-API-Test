@@ -46,29 +46,4 @@
     "Salvage Title": "No",
     "Main Image URL": "https://storage.googleapis.com/pull_api_test/Corvette_2_1.jpeg",
     "Additional Image URLs": "https://storage.googleapis.com/pull_api_test/Corvette_2_2.jpeg,https://storage.googleapis.com/pull_api_test/Corvette_2_3.jpeg,https://storage.googleapis.com/pull_api_test/Corvette_2_4.jpeg,https://storage.googleapis.com/pull_api_test/Corvette_2_5.jpeg,https://storage.googleapis.com/pull_api_test/Corvette_2_6.jpeg"
-  },
-  {
-    "VIN": "1G1YY32G21",
-    "Year": "2001",
-    "Make": "Chevrolet",
-    "Model": "Corvette",
-    "Trim": "",
-    "Series": "",
-    "Body Style": "Convertible",
-    "Drivetrain": "RWD",
-    "Sale Price": "22600",
-    "Mileage": "32000",
-    "Condition": "Used",
-    "Transmission": "Automatic",
-    "Engine": "V8",
-    "Exterior Color": "Red",
-    "Interior Color": "Black",
-    "Title": "2001 Chevrolet Corvette Convertible",
-    "Description": "This 2001 Chevrolet Corvette Convertible is in excellent condition with only 32,000 miles. The red exterior with black leather interior looks great with the top down. It has a 5.7L V8 engine with automatic transmission that delivers smooth power.\n\nKey features include:\nDual power seats with leather upholstery\nPremium sound system with multi-disc CD player\nPower convertible top\nPremium wheels\nTraction control and ABS braking\nAll power accessories including windows and locks\nHeads up display\nTilt-n-tel display\nCruise control\nAuto headlights\nF45 selective real time dampening suspension\nNOT A SCRATCH ON THE CAR\nEVERYTHING WORKS PERFECTLY\nCOLD A/C\n\nThe mileage is lower than average for this year, and the price reflects good value.",
-    "Owners": "1",
-    "Accidents": "0",
-    "Salvage Title": "No",
-    "Main Image URL": "https://storage.googleapis.com/pull_api_test/Corvette_3_1.jpeg",
-    "Additional Image URLs": "https://storage.googleapis.com/pull_api_test/Corvette_3_2.jpeg, https://storage.googleapis.com/pull_api_test/Corvette_3_3.jpeg,https://storage.googleapis.com/pull_api_test/Corvette_3_4.jpeg,https://storage.googleapis.com/pull_api_test/Corvette_3_5.jpeg"
-  }
-]
+  }]
